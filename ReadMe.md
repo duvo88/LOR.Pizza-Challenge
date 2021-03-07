@@ -11,8 +11,11 @@ Hints:
 Nice-to-have:
 - We would like to add pizza toppings to the menu: extra cheese, mayo, olive oil
 - Our customers would like to order more than 1 pizza at a time
-
+- [Pizza size]
+- [More advanced menu with choice of number & validation on input]
 
 We appoint you a manager of this project, so feel free to add more features if you like :)
 
-__ADD YOUR NAME HERE__
+__Daniel Vo__
+
+
